@@ -1,1 +1,1 @@
-# wesbos-challenges
+# react-course
